@@ -19,9 +19,7 @@ The **Apple Maps Scraper** is an Apify actor that extracts location data, busine
 | Stat | Value |
 |------|-------|
 | **Version** | `0.1.1` |
-| **Total Runs** | 73 |
-| **Total Users** | 5 |
-| **Stats Date** | Nov 30, 2025 |
+| **Last Update** | Nov 30, 2025 |
 
 ---
 
