@@ -1,0 +1,17 @@
+{
+  "name": "example-apple-maps-scraper",
+  "version": "1.0.0",
+  "description": "Example integration for apple-maps-scraper actor",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "apify-client": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
